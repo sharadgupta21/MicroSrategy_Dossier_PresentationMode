@@ -9,3 +9,4 @@ Please let me know if it is really helpful.
 
 Happy Data Exploring...!!!
   
+![alt text](https://github.com/sharadgupta21/MicroSrategy_Dossier_PresentationMode/blob/main/MicroStrategy%20Sample%20Dossier.png?raw=true)
